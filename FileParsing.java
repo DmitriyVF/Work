@@ -61,28 +61,38 @@ public class FileParsing {
         for (String arg : args) {
             if (Arrays.asList(arrayKey).contains(arg)) {
                 paramKey = arg;
-                if (arg.equals("-s")) keyStatShort = true;
-                else if (arg.equals("-f")) keyStatFull = true;
-                else if (arg.equals("-a")) keyAppendFile = true;
-            } else if (paramKey.equals("-o")) {
-                String directoryPath = arg;
-                File file = new File(directoryPath);
-                if (file.isDirectory()) {
-                    paramDir = arg;
-                } else {
-                    System.out.println("Incorrect parameter -o (ignore) don't Directory: " + arg);
+                switch (arg) {
+                    case "-s":
+                        keyStatShort = true;
+                        break;
+                    case "-f":
+                        keyStatFull = true;
+                        break;
+                    case "-a":
+                        keyAppendFile = true;
+                        break;
                 }
-                paramKey = "";
-            } else if (paramKey.equals("-p")) {
-                paramPrefix = arg;
-                paramKey = "";
             } else {
                 File file = new File(arg);
-                if (file.exists()) {
-                    InputFileList.add(arg);
-                } else {
-                    System.out.println("Incorrect parameter (ignore) don't file: " + arg);
+                switch (paramKey) {
+                    case "-o":
+                        if (file.isDirectory()) {
+                            paramDir = arg;
+                        } else {
+                            System.out.println("Incorrect parameter -o (ignore) don't Directory: " + arg);
+                        }
+                        break;
+                    case "-p":
+                        paramPrefix = arg;
+                        break;
+                    default:
+                        if (file.exists()) {
+                            InputFileList.add(arg);
+                        } else {
+                            System.out.println("Incorrect parameter (ignore) don't file: " + arg);
+                        }
                 }
+                paramKey = "";
             }
         }
 

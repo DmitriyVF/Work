@@ -1,44 +1,45 @@
 
 r
-java:S3740"/Provide the parametrized type for this generic.(Äê›Õ8˜ûæ­Ÿ2J$c10fd581-a717-4832-937e-b3f8ba95d2ca
+java:S3740"/Provide the parametrized type for this generic.(Äê›Õ8÷±ğ¯Ÿ2J$7ec72eff-50b0-4f43-815c-41b8c3ca2a9d
 w
-java:S3740!"/Provide the parametrized type for this generic.(‰¼™’úÿÿÿÿ8™ûæ­Ÿ2J$29c89d44-c384-4c98-b63f-0b7c6c91888a
+java:S3740!"/Provide the parametrized type for this generic.(‰¼™’úÿÿÿÿ8ø±ğ¯Ÿ2J$f2110f14-1410-445a-bad8-59043de058b3
 r
-java:S3740,"/Provide the parametrized type for this generic.(±Ú®›8™ûæ­Ÿ2J$ff651e39-1d48-4f2f-95e9-29c9e19e2767
+java:S3740,"/Provide the parametrized type for this generic.(±Ú®›8ø±ğ¯Ÿ2J$9756fd4b-787d-492a-a155-22c8aeecaf76
 }
-java:S1141n"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8›ûæ­Ÿ2J$6ad48ccb-f74f-42d9-a2f9-943786a68f7b
+java:S1141x"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ı±ğ¯Ÿ2J$ec5a1b54-9498-4495-9167-2a7470b25eb6
 }
-java:S1141s"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8œûæ­Ÿ2J$c2459038-83f4-4c77-860a-60737525fbd3
+java:S1141}"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ş±ğ¯Ÿ2J$d58cfbd0-dc43-41f4-9342-a380164517d0
 š
-java:S3008"XRename this field "InputFileList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÿ™u8øüæ­Ÿ2J$e3ace280-3c41-4dd3-aa9e-674ae5c8d803
+java:S3008"XRename this field "InputFileList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÿ™u8¿¶ğ¯Ÿ2J$3ec36ce5-7548-4b7e-b739-11dcf2ebd657
 ‰
-java:S1659"ADeclare "iMin" and all following declarations on a separate line.(·–Ê¡ıÿÿÿÿ8ùüæ­Ÿ2J$3ff1f9c7-5e0b-4c8e-bc71-91a2cc5f53df
+java:S1659"ADeclare "iMin" and all following declarations on a separate line.(·–Ê¡ıÿÿÿÿ8Ã¶ğ¯Ÿ2J$884c685b-5dcc-4141-afb5-099e649403c9
 ‰
-java:S1659"ADeclare "dMin" and all following declarations on a separate line.(íò™‚şÿÿÿÿ8úüæ­Ÿ2J$74bf4c8b-dc34-4755-9750-ff2eab2d4f68
+java:S1659"ADeclare "dMin" and all following declarations on a separate line.(íò™‚şÿÿÿÿ8Ä¶ğ¯Ÿ2J$90bd9c89-47c2-4d70-935a-001678b44ce4
 •
-java:S37764"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(Çµí‘8‚ıæ­Ÿ2J$3ee65c34-35ad-4376-85c8-c51f649969e4
-m	java:S1069"+Replace this use of System.out by a logger.(ÉÚåÕ8„ıæ­Ÿ2J$4dfca756-5299-4f7c-8cdb-0873d409da11
-m	java:S106I"+Replace this use of System.out by a logger.(´‡˜Ô8ˆıæ­Ÿ2J$94403f75-e57e-454e-a8c7-474dfdad4bbc
-m	java:S106T"+Replace this use of System.out by a logger.(ïİå¸8‰ıæ­Ÿ2J$90fb2b69-592c-4e11-86f2-f5339ee0668c
-m	java:S106Z"+Replace this use of System.out by a logger.(ø¸È‘8‰ıæ­Ÿ2J$881b07da-fe2d-4228-a21d-3acb02df0b64
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 64 to the 15 allowed.(Çµí‘8Ù¶ğ¯Ÿ2J$fcdde4d7-4ecf-4729-9943-4da9adfa3d4f
+m	java:S1069"+Replace this use of System.out by a logger.(ÉÚåÕ8İ¶ğ¯Ÿ2J$ef3b5640-75c9-447e-a283-2dc876131948
+i	java:S131@""Add a default case to this switch.(éÀÌøÿÿÿÿ8ä¶ğ¯Ÿ2J$fa1727ed-e81b-47e4-a090-92af94d66b14
+m	java:S106R"+Replace this use of System.out by a logger.(´‡˜Ô8ì¶ğ¯Ÿ2J$2f7a6706-bc12-4a85-917b-c3b81911c634
+m	java:S106\"+Replace this use of System.out by a logger.(ïİå¸8î¶ğ¯Ÿ2J$f422c342-d48a-4cde-b363-31f8ad666cdf
+m	java:S106d"+Replace this use of System.out by a logger.(ø¸È‘8ğ¶ğ¯Ÿ2J$1ed457b5-5524-45df-9804-04e995e1dbc7
 n
-java:S1075a"&Remove this hard-coded path-delimiter.(øŒ‹òùÿÿÿÿ8Šıæ­Ÿ2J$e9ee9267-4c82-432e-90e3-f900c239f73b
+java:S1075k"&Remove this hard-coded path-delimiter.(øŒ‹òùÿÿÿÿ8õ¶ğ¯Ÿ2J$95483e66-9906-4869-979a-4a0533a674b4
 h
-java:S1075b"&Remove this hard-coded path-delimiter.(˜İ8‹ıæ­Ÿ2J$bfc353f0-1df2-4802-9b77-d025e42027e6
+java:S1075l"&Remove this hard-coded path-delimiter.(˜İ8ö¶ğ¯Ÿ2J$b8562ee1-de1a-4348-a2d5-bbad7af589e8
 i
-java:S1075c"&Remove this hard-coded path-delimiter.(£Š°Â8‹ıæ­Ÿ2J$9d01c7d1-513c-4890-abb2-83bc975be3c5
-n	java:S106„"+Replace this use of System.out by a logger.(Ş‡ç÷8‘ıæ­Ÿ2J$20989191-6df5-4b34-af82-94fc07ce554c
-s	java:S106…"+Replace this use of System.out by a logger.(¼øõŞûÿÿÿÿ8‘ıæ­Ÿ2J$c3211276-202a-415c-9ddd-f5561303c0f4
-n	java:S106†"+Replace this use of System.out by a logger.(Ù”û§8’ıæ­Ÿ2J$844e1629-9ba1-4b8a-b608-b4aa7933dd31
-s	java:S106Š"+Replace this use of System.out by a logger.(Éâ İúÿÿÿÿ8’ıæ­Ÿ2J$e8b198d6-a406-4334-ae65-66e2586ed866
-s	java:S106‹"+Replace this use of System.out by a logger.(íÆµ¤ÿÿÿÿÿ8’ıæ­Ÿ2J$a97dbfd2-b4a4-4306-adba-d2f657e35f7b
-n	java:S106Œ"+Replace this use of System.out by a logger.(Àºë¢8“ıæ­Ÿ2J$1f683810-c9d8-46a3-93c9-0b6a40c3cd3f
-s	java:S106"+Replace this use of System.out by a logger.(İ®øÿÿÿÿ8“ıæ­Ÿ2J$b5de137a-76e0-4363-90c5-0b1f623d7cc0
-s	java:S106"+Replace this use of System.out by a logger.(¬îìüÿÿÿÿ8”ıæ­Ÿ2J$f2384772-9789-4a14-a034-f37f0325ef84
-s	java:S106‘"+Replace this use of System.out by a logger.(àİ²ıÿÿÿÿ8”ıæ­Ÿ2J$31510e69-c563-49ee-89ab-6420289c88ed
-s	java:S106’"+Replace this use of System.out by a logger.(Àˆ‡îÿÿÿÿÿ8”ıæ­Ÿ2J$c8fb50d4-464e-4404-9485-9fb74a3611d0
-n	java:S106“"+Replace this use of System.out by a logger.(ö€‹©8”ıæ­Ÿ2J$36b2535a-cb8e-4ea5-b706-6ec36ecd206e
-s	java:S106–"+Replace this use of System.out by a logger.(ùËú³üÿÿÿÿ8”ıæ­Ÿ2J$3e41d148-96dd-4732-b6a6-e6101d9735a2
-s	java:S106—"+Replace this use of System.out by a logger.(–âÀ‰ÿÿÿÿÿ8•ıæ­Ÿ2J$90383f8d-47a8-44b3-87c9-ef5f13da56c1
+java:S1075m"&Remove this hard-coded path-delimiter.(£Š°Â8÷¶ğ¯Ÿ2J$53448f53-59d0-4277-9f50-ba7113510da6
+n	java:S106"+Replace this use of System.out by a logger.(Ş‡ç÷8·ğ¯Ÿ2J$f04efaf4-edc2-4f53-840f-609e6aa1db8e
+s	java:S106"+Replace this use of System.out by a logger.(¼øõŞûÿÿÿÿ8·ğ¯Ÿ2J$30f3dc44-c793-4382-b191-b08c1b541bab
+n	java:S106"+Replace this use of System.out by a logger.(Ù”û§8·ğ¯Ÿ2J$90331c53-58bc-4b8b-bff7-6773baeffb02
+s	java:S106”"+Replace this use of System.out by a logger.(Éâ İúÿÿÿÿ8·ğ¯Ÿ2J$f82482f3-227c-4eff-88f1-fa1b5f8ffd3b
+s	java:S106•"+Replace this use of System.out by a logger.(íÆµ¤ÿÿÿÿÿ8·ğ¯Ÿ2J$3218ccb7-003d-4aa8-a045-a2b4af72a133
+n	java:S106–"+Replace this use of System.out by a logger.(Àºë¢8·ğ¯Ÿ2J$33e5e43c-0e8b-421b-82ad-7a6c40918e19
+s	java:S106—"+Replace this use of System.out by a logger.(İ®øÿÿÿÿ8·ğ¯Ÿ2J$f5bfd144-049d-48e3-9bf7-03d06ebedcc2
+s	java:S106š"+Replace this use of System.out by a logger.(¬îìüÿÿÿÿ8·ğ¯Ÿ2J$d6b2983b-36fc-458d-a62e-4f4904fc8b54
+s	java:S106›"+Replace this use of System.out by a logger.(àİ²ıÿÿÿÿ8·ğ¯Ÿ2J$cd8103ef-10d6-4fb7-91a5-9ebdd5a43fec
+s	java:S106œ"+Replace this use of System.out by a logger.(Àˆ‡îÿÿÿÿÿ8·ğ¯Ÿ2J$a508e5d2-422a-4e88-8f1c-2b8488cc4883
+n	java:S106"+Replace this use of System.out by a logger.(ö€‹©8·ğ¯Ÿ2J$ad852fe0-6ff8-4ccc-9745-c4e3adf092b1
+s	java:S106 "+Replace this use of System.out by a logger.(ùËú³üÿÿÿÿ8·ğ¯Ÿ2J$b16d520b-5586-4dee-a2d0-e90be50661fb
+s	java:S106¡"+Replace this use of System.out by a logger.(–âÀ‰ÿÿÿÿÿ8·ğ¯Ÿ2J$23660787-13f5-4387-8721-0dd68fa682b8
 Š
-java:S65414"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 126 to 64, Complexity from 28 to 14, Nesting Level from 5 to 2, Number of Variables from 27 to 6.(Çµí‘8šıæ­Ÿ2J$4decead9-b447-4700-b260-7c133cf28bf5
+java:S65414"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 136 to 64, Complexity from 28 to 14, Nesting Level from 5 to 2, Number of Variables from 25 to 6.(Çµí‘8¸·ğ¯Ÿ2J$1d8cc72c-6cfc-417a-88d3-6e0493e73d5c
